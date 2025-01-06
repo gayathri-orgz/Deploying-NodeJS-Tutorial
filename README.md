@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a25262a7-d410-4c34-adf7-8e0f7b1aceae)# Deploying a Node Js Application on AWS EC2
+# Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
 
@@ -23,7 +23,7 @@ npm run start
 
 ### Set up an AWS EC2 instance
 
-1. Create an IAM user & login to your AWS Console
+1. Create an IAM user & log into your AWS Console
     - Access Type - Password
     - Permissions - Admin
 2. Create an EC2 instance
@@ -70,8 +70,9 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
- <br>
-![image](https://github.com/user-attachments/assets/b2bf6b5b-16ae-4f15-ada6-16e8700522ed)
+
+![image](https://github.com/user-attachments/assets/bbd9fc01-73dd-4eeb-b04d-34cae41c821f)
+
 
 
 
