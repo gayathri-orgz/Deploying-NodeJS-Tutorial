@@ -1,4 +1,4 @@
-# Deploying a Node Js Application on AWS EC2
+![image](https://github.com/user-attachments/assets/a25262a7-d410-4c34-adf7-8e0f7b1aceae)# Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
 
@@ -70,3 +70,7 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+
+![image](https://github.com/user-attachments/assets/4b83f5ea-d7fa-444d-b2a8-ca58d1bd43b8)
+
+
